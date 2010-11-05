@@ -1,0 +1,185 @@
+data/.hgignore.i
+data/SparkleDotNET Test Application/App.xaml.i
+data/SparkleDotNET Test Application/App.xaml.cs.i
+data/SparkleDotNET Test Application/MainWindow.xaml.i
+data/SparkleDotNET Test Application/MainWindow.xaml.cs.i
+data/SparkleDotNET Test Application/Music_Rescue_4.ico.i
+data/SparkleDotNET Test Application/Properties/AssemblyInfo.cs.i
+data/SparkleDotNET Test Application/Properties/Resources.Designer.cs.i
+data/SparkleDotNET Test Application/Properties/Resources.resx.i
+data/SparkleDotNET Test Application/Properties/Settings.Designer.cs.i
+data/SparkleDotNET Test Application/Properties/Settings.settings.i
+data/SparkleDotNET Test Application/Resources/Info.plist.i
+data/SparkleDotNET Test Application/Resources/PropertyList-1.0.dtd.i
+data/SparkleDotNET Test Application/Resources/Update Signing Public Key.sparklePublicKey.i
+data/SparkleDotNET Test Application/Sample Files/Sample Appcast.xml.i
+data/SparkleDotNET Test Application/Sample Files/Sample Release Notes/rnotes.css.i
+data/SparkleDotNET Test Application/Sample Files/Sample Release Notes/rnotes.html.i
+data/SparkleDotNET Test Application/Sample Files/SparkleDotNET Todo.txt.i
+data/SparkleDotNET Test Application/Sample Files/SparkleDotNETTestAppUpdates.xml.i
+data/SparkleDotNET Test Application/SparkleDotNET Test Application.csproj.i
+data/SparkleDotNET Test Application/SparkleDotNET Todo.txt.i
+data/SparkleDotNET.sln.i
+data/SparkleDotNET.suo.i
+data/SparkleDotNET.suo.d
+data/SparkleDotNET/Installation/SUExecutableInstaller.cs.i
+data/SparkleDotNET/Installation/SUInstaller.cs.i
+data/SparkleDotNET/Installation/SUMSIInstaller.cs.i
+data/SparkleDotNET/License.txt.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertActionButtonsViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertDownloadProgressViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertIndeterminateProgressViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertReadyToInstallViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertWindowStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdateAlertWindowViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdatePermissionPromptViewStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SUUpdatePermissionPromptWindowStrings.resx.i
+data/SparkleDotNET/Localization/Actual Strings/SparkleStrings.resx.i
+data/SparkleDotNET/Localization/SULocalizedStrings.cs.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertActionButtonsViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertDownloadProgressViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertIndeterminateProgressViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertReadyToInstallViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertWindowStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdateAlertWindowViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdatePermissionPromptViewStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SUUpdatePermissionPromptWindowStrings.resx.i
+data/SparkleDotNET/Localization/Sample Strings/SparkleStrings.resx.i
+data/SparkleDotNET/Properties/AssemblyInfo.cs.i
+data/SparkleDotNET/SUAppcast.cs.i
+data/SparkleDotNET/SUAppcastItem.cs.i
+data/SparkleDotNET/SUConstants.cs.i
+data/SparkleDotNET/SUDSAVerifier.cs.i
+data/SparkleDotNET/SUHost.cs.i
+data/SparkleDotNET/SUSystemProfiler.cs.i
+data/SparkleDotNET/SUUpdater.cs.i
+data/SparkleDotNET/SharpZLib/BZip2/BZip2.cs.i
+data/SparkleDotNET/SharpZLib/BZip2/BZip2Constants.cs.i
+data/SparkleDotNET/SharpZLib/BZip2/BZip2Exception.cs.i
+data/SparkleDotNET/SharpZLib/BZip2/BZip2InputStream.cs.i
+data/SparkleDotNET/SharpZLib/BZip2/BZip2OutputStream.cs.i
+data/SparkleDotNET/SharpZLib/Checksums/Adler32.cs.i
+data/SparkleDotNET/SharpZLib/Checksums/CRC32.cs.i
+data/SparkleDotNET/SharpZLib/Checksums/IChecksum.cs.i
+data/SparkleDotNET/SharpZLib/Checksums/StrangeCRC.cs.i
+data/SparkleDotNET/SharpZLib/Core/FileSystemScanner.cs.i
+data/SparkleDotNET/SharpZLib/Core/INameTransform.cs.i
+data/SparkleDotNET/SharpZLib/Core/IScanFilter.cs.i
+data/SparkleDotNET/SharpZLib/Core/NameFilter.cs.i
+data/SparkleDotNET/SharpZLib/Core/PathFilter.cs.i
+data/SparkleDotNET/SharpZLib/Core/StreamUtils.cs.i
+data/SparkleDotNET/SharpZLib/Core/WindowsPathUtils.cs.i
+data/SparkleDotNET/SharpZLib/Encryption/PkzipClassic.cs.i
+data/SparkleDotNET/SharpZLib/GZip/GZIPConstants.cs.i
+data/SparkleDotNET/SharpZLib/GZip/GZipException.cs.i
+data/SparkleDotNET/SharpZLib/GZip/GzipInputStream.cs.i
+data/SparkleDotNET/SharpZLib/GZip/GzipOutputStream.cs.i
+data/SparkleDotNET/SharpZLib/SharpZipBaseException.cs.i
+data/SparkleDotNET/SharpZLib/Tar/InvalidHeaderException.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarArchive.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarBuffer.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarEntry.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarException.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarHeader.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarInputStream.cs.i
+data/SparkleDotNET/SharpZLib/Tar/TarOutputStream.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Deflater.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/DeflaterConstants.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/DeflaterEngine.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/DeflaterHuffman.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/DeflaterPending.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Inflater.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/InflaterDynHeader.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/InflaterHuffmanTree.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/PendingBuffer.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Streams/DeflaterOutputStream.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Streams/InflaterInputStream.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Streams/OutputWindow.cs.i
+data/SparkleDotNET/SharpZLib/Zip/Compression/Streams/StreamManipulator.cs.i
+data/SparkleDotNET/SharpZLib/Zip/FastZip.cs.i
+data/SparkleDotNET/SharpZLib/Zip/IEntryFactory.cs.i
+data/SparkleDotNET/SharpZLib/Zip/WindowsNameTransform.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipConstants.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipEntry.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipEntryFactory.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipException.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipExtraData.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipFile.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipHelperStream.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipInputStream.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipNameTransform.cs.i
+data/SparkleDotNET/SharpZLib/Zip/ZipOutputStream.cs.i
+data/SparkleDotNET/SparkleDotNET.csproj.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertActionButtonsViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertDownloadProgressViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertIndeterminateProgressViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertReadyToInstallViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertWindowStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdateAlertWindowViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdatePermissionPromptViewStrings.resx.i
+data/SparkleDotNET/Strings/English/SUUpdatePermissionPromptWindowStrings.resx.i
+data/SparkleDotNET/Strings/English/SparkleStrings.resx.i
+data/SparkleDotNET/Strings/SULocalizedStrings.cs.i
+data/SparkleDotNET/Strings/SparkleStrings.resx.i
+data/SparkleDotNET/UI/SUUpdateAlert.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertActionButtonsView.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertActionButtonsView.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertActionButtonsViewController.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertDownloadProgressView.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertDownloadProgressView.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertDownloadProgressViewController.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertIndeterminateProgressView.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertIndeterminateProgressView.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertIndeterminateProgressViewController.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertReadyToInstalViewController.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertReadyToInstallView.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertReadyToInstallView.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertWindow.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertWindow.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertWindowView.xaml.i
+data/SparkleDotNET/UI/SUUpdateAlertWindowView.xaml.cs.i
+data/SparkleDotNET/UI/SUUpdateAlertWindowViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlert.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertActionButtonsView.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertActionButtonsView.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertActionButtonsViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertActionButtonsViewStrings.resx.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertDownloadProgressView.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertDownloadProgressView.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertDownloadProgressViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertDownloadProgressViewStrings.resx.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertIndeterminateProgressView.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertIndeterminateProgressView.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertIndeterminateProgressViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertIndeterminateProgressViewStrings.resx.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertReadyToInstalViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertReadyToInstallView.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertReadyToInstallView.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertReadyToInstallViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertReadyToInstallViewStrings.resx.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindow.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindow.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindowStrings.resx.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindowView.xaml.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindowView.xaml.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindowViewController.cs.i
+data/SparkleDotNET/UI/Update Alert/SUUpdateAlertWindowViewStrings.resx.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptView.xaml.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptView.xaml.cs.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptViewController.cs.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptViewStrings.resx.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptWindow.xaml.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptWindow.xaml.cs.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptWindowController.cs.i
+data/SparkleDotNET/UI/Update Automatically Prompt/SUUpdatePermissionPromptWindowStrings.resx.i
+data/SparkleDotNET/Unarchiving/SUExeUnarchiver.cs.i
+data/SparkleDotNET/Unarchiving/SUUnarchiver.cs.i
+data/SparkleDotNET/Unarchiving/SuZipUnarchiver.cs.i
+data/SparkleDotNET/Update Drivers/SUBasicUpdateDriver.cs.i
+data/SparkleDotNET/Update Drivers/SUProbingUpdateDriver.cs.i
+data/SparkleDotNET/Update Drivers/SUScheduledUpdateDriver.cs.i
+data/SparkleDotNET/Update Drivers/SUUIBasedUpdateDriver.cs.i
+data/SparkleDotNET/Update Drivers/SUUpdateDriver.cs.i
+data/SparkleDotNET/Update Drivers/SUUserInitiatedUpdateDriver.cs.i
+data/SparkleDotNET/Version Comparison/SUStandardVersionComparator.cs.i
+data/SparkleDotNET/Version Comparison/SUVersionComparison.cs.i

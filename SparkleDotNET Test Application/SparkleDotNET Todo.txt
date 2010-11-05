@@ -1,0 +1,4 @@
+﻿Todo 
+====
+
+- Clean up what's public or not
